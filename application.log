@@ -1,0 +1,15 @@
+02-26-2021 11:19:11 {DEBUG} [com.revature.Application] - this is debug level
+02-26-2021 11:19:11 {INFO} [com.revature.Application] - this is info level
+02-26-2021 11:19:11 {WARN} [com.revature.Application] - this is warn level
+02-26-2021 11:19:11 {ERROR} [com.revature.Application] - this is error level
+02-26-2021 11:19:11 {FATAL} [com.revature.Application] - this is fatal level
+02-26-2021 11:28:40 {DEBUG} [com.revature.Application] - this is debug level
+02-26-2021 11:28:41 {INFO} [com.revature.Application] - this is info level
+02-26-2021 11:28:41 {WARN} [com.revature.Application] - this is warn level
+02-26-2021 11:28:41 {ERROR} [com.revature.Application] - this is error level
+02-26-2021 11:28:41 {FATAL} [com.revature.Application] - this is fatal level
+02-26-2021 11:31:54 {DEBUG} [com.revature.Application] - this is debug level
+02-26-2021 11:31:54 {INFO} [com.revature.Application] - this is info level
+02-26-2021 11:31:54 {WARN} [com.revature.Application] - this is warn level
+02-26-2021 11:31:54 {ERROR} [com.revature.Application] - this is error level
+02-26-2021 11:31:54 {FATAL} [com.revature.Application] - this is fatal level
